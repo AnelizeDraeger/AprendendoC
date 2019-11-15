@@ -15,5 +15,6 @@ int main() {
 		printf("O numero digitado eh menor ou igual a 5!\n\n");
 	}
 	
+	system("pause");
 	return 0;
 }
